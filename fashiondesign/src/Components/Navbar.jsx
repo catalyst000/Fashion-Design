@@ -37,7 +37,7 @@ export default function Navbar() {
           bgGradient="linear(to-r, teal.400, blue.500)"
           bgClip="text"
         >
-          <Image h="60px" w="60px" src='/fashion-logo.png' alt="fashion-design-logo"/>
+          <Image h="60px" w="60px" src='/fashion-logo.webp' alt="fashion-design-logo"/>
         </Box>
 
         {/* Desktop Links */}
